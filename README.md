@@ -1,9 +1,8 @@
-<p style="display: flex; align-items: center; gap: 10px;">
-  <img src="public/icon.png" alt="Lumios Logo" width="50" height="50" style="border-radius: 20%; box-shadow: 0 4px 8px rgba(0,0,0,0.15); margin: 0;"/>
-  <span style="font-size: 2.5em; font-weight: bold; font-family: sans-serif;">Lumios</span>
-</p>
+<h1 align="start">
+  <img src="./app/icon.png" alt="Lumios Logo" width="40" height="40" align="center" /> Lumios
+</h1>
 
-> **Your AI-powered wellness companion designed to help you build healthier habits, stay hydrated, and improve your overall well-being through intelligent insights and voice interactions.**
+**Your AI-powered wellness companion designed to help you build healthier habits, stay hydrated, and improve your overall well-being through intelligent insights and voice interactions.**
 
 ---
 
